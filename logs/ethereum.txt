@@ -154,3 +154,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x64658d2fa"}
 {"error":"{\"Error_GUID\":\"14728063052442178596\",\"Error\":\"Failed all retries {GUID:14728063052442178596,error:rpc error: code = Unavailable desc = connection error: desc = \\\"transport: authentication handshake failed: read tcp 10.35.3.2:59054-\\u003e195.14.6.179:443: read: connection reset by peer\\\",chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x837be7055"}
+{"jsonrpc":"2.0","id":1,"result":"0x8d58b2fcc"}
